@@ -3,6 +3,6 @@
 
 class Greeter {
   func hi() -> String {
-    return "Hello, Swift!"
+    return "Hello, Swift Library!"
   }
 }
